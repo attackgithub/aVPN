@@ -1,6 +1,6 @@
-# testAVPN
+testA# testAVPN
 
-特别适合外贸网络, 稳定,安全,简单易用.和常见VPN 无缝集成。 PC, MAC , WINDOWS , LINUX , ANDROID, IOS 全部完美支持。
+特别适合外贸网络(外贸路由器), 稳定,安全,简单易用.和常见VPN（ openvpn, ipsec vpn, openconnect vpn） 无缝集成。 PC, MAC , WINDOWS , LINUX , ANDROID, IOS 全部完美支持。
 
 根据  SoftEtherVPN 修改， 主要是协议特征重制，关闭了一些用不到的服务，零零碎碎。
 
