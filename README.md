@@ -1,4 +1,4 @@
-testA# testAVPN
+testAVPN
 
 特别适合外贸网络(外贸路由器), 稳定,安全,简单易用.和常见VPN（ openvpn, ipsec vpn, openconnect vpn） 无缝集成。 PC, MAC , WINDOWS , LINUX , ANDROID, IOS 全部完美支持。
 
